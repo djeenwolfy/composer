@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "lang\\": "Lang/",
+            "Lang\\russian\\rus\\":"Lang/russian/rus/",
+            "Lang\\engish\\engl\\":"Lang/engish/engl/"
+        }
+    },
+    "require": {}
+}
